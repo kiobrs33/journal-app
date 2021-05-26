@@ -6,5 +6,5 @@ import './styles/styles.scss';
 
 ReactDOM.render(
     <JournalApp/>,
-    document.querySelector('root')
+    document.querySelector('#root')
 );
